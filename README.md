@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hello! Carla Heyde here, working on my GitHub Repositories, soon to share more !
+
+🌱 I’m currently learning React =)
+
+💬 Ask me about anything! I love to talk!
+
+📫 How to reach me: https://linktr.ee/carlaheyde
+
+
+
 
 <!--
 **cjheyde/cjheyde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
