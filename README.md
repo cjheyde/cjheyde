@@ -1,6 +1,6 @@
 ### Hello! Carla Heyde here, working on my GitHub Repositories, soon to share more !
 
-🌱 I’m currently learning React =)
+🌱 I’m currently learning React/Redux, Context API and React Hooks =)
 
 💬 Ask me about anything! I love to talk!
 
