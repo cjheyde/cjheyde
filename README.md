@@ -1,7 +1,8 @@
 ### Hello! Carla Heyde here, working on my GitHub Repositories, soon to share more !
 
-🌱 I’m currently learning Docker and SQL/MySQL =)
-   I've already learned the basics of: React Hooks, Context API, Redux, RTL, JavaScript, Jest, HTML, CSS, Git & GitHub, Unix & Bash.
+🤔 I’m currently learning Docker and SQL/MySQL =)
+   
+🌱 I've already learned the basics of: React Hooks, Context API, Redux, RTL, JavaScript, Jest, HTML, CSS, Git & GitHub, Unix & Bash.
 
 💬 Ask me about anything! I love to talk and to listen!
 
