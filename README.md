@@ -6,9 +6,7 @@
 
 💬 Ask me about anything! I love to talk and to listen!
 
-📫 How to reach me: 
-  https://www.linkedin.com/in/carlaheyde/
-  https://linktr.ee/carlaheyde
+📫 How to reach me: https://linktr.ee/carlaheyde
 
 
 
