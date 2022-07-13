@@ -1,4 +1,4 @@
-### Hello! Carla Heyde here, working on my GitHub Repositories, soon to share more !
+### Hello! Carla Heyde here, working on my GitHub Repositories, soon to share more!
 
 🤔 I’m currently learning Docker and SQL/MySQL =)
    
