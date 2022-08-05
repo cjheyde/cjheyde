@@ -13,10 +13,10 @@
 ### Technologies I have the basic knowledge:
 <img src="https://img.icons8.com/fluency/48/000000/docker.png" alt="Docker" align="center" height=30/>&nbsp;<span>Docker</span> &nbsp; &nbsp; 
 <img src="https://img.icons8.com/fluency/48/000000/node-js.png" alt="Node.js" align="center" height=30/>&nbsp;<span>Node.js</span> &nbsp; &nbsp; 
-<img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" align="center" height=30/>&nbsp;<span>React Hooks</span> &nbsp; &nbsp;
+<img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" align="center" height=30/>&nbsp;<span>React</span> &nbsp; &nbsp;
 <img src="https://img.icons8.com/color/48/000000/redux.png" alt="Redux" align="center" height=30/>&nbsp;<span>Redux</span> &nbsp; &nbsp;
 <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" align="center" height=30/><span>JavaScript</span> &nbsp; &nbsp;
-<img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" align="center" alt="MySQL"/>&nbsp;<span>SQL - MySQL</span> &nbsp; &nbsp;
+<img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" align="center" alt="MySQL"/>&nbsp;<span>MySQL</span> &nbsp; &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" align="center" alt="Jest" height=30/>&nbsp;<span>Jest</span> &nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/testing-library/dom-testing-library/main/other/octopus.png" align="center" alt="RTL" height=30/>&nbsp;<span>RTL</span>
 ##### And also HTML, CSS, Cypress, Git & GitHub, Unix & Bash.
