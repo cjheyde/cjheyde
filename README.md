@@ -8,7 +8,7 @@
 
 💬 Ask me about anything! I love to talk and I am a good listener! 
 
-📫 How to reach me: https://linktr.ee/carlaheyde &nbsp; &nbsp; <span href="https://www.linkedin.com/in/carlaheyde/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=white" target="_blank"></span> &nbsp; &nbsp; 
+📫 How to reach me: https://linktr.ee/carlaheyde &nbsp; &nbsp; <span href="https://www.linkedin.com/in/carlaheyde/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=white" target="_blank" width=8% ></span> &nbsp; &nbsp; 
 
 ### Technologies I have the basic knowledge:
 <img src="https://img.icons8.com/fluency/48/000000/docker.png" alt="Docker" align="center" height=30/>&nbsp;<span>Docker</span> &nbsp; &nbsp; 
@@ -21,7 +21,7 @@
 <img src="https://raw.githubusercontent.com/testing-library/dom-testing-library/main/other/octopus.png" align="center" alt="RTL" height=30/>&nbsp;<span>RTL</span>
 ##### And also HTML, CSS, Git & GitHub, Unix & Bash.
 
-![Carla Heyde's GitHub stats](https://github-readme-stats.vercel.app/api?username=cjheyde&theme=buefy&show_icons=true&amp;hide=contribs,issues) &nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cjheyde&theme=buefy&layout=compact)](https://github.com/anuraghazra/github-readme-stats) &nbsp;&nbsp; <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{cjheyde}1212%2Fhit-counter" alt="profile hits counter"/> 
+<img src="https://github-readme-stats.vercel.app/api?username=cjheyde&theme=buefy&show_icons=true&amp;hide=contribs,issues" width=40% /> &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cjheyde&theme=buefy&layout=compact" width=30% /> &nbsp;&nbsp; <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{cj}1212%2Fhit-counter" alt="profile hits counter"/> 
 </a>
 
 <!--
