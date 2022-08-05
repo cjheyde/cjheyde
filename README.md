@@ -21,9 +21,8 @@
 <img src="https://raw.githubusercontent.com/testing-library/dom-testing-library/main/other/octopus.png" align="center" alt="RTL" height=30/>&nbsp;<span>RTL</span>
 ##### And also HTML, CSS, Git & GitHub, Unix & Bash.
 
-<img src="https://github-readme-stats.vercel.app/api?username=cjheyde"/> &nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats) &nbsp;&nbsp; <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{cjheyde}1212%2Fhit-counter" alt="profile hits counter"/> 
-
-
+![Carla Heyde's GitHub stats](https://github-readme-stats.vercel.app/api?username=cjheyde&theme=buefy&show_icons=true&amp;hide=contribs,issues) &nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cjheyde&theme=buefy&layout=compact)](https://github.com/anuraghazra/github-readme-stats) &nbsp;&nbsp; <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{cjheyde}1212%2Fhit-counter" alt="profile hits counter"/> 
+</a>
 
 <!--
 **cjheyde/cjheyde** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
