@@ -1,6 +1,6 @@
 ### Hello! Carla Heyde here <img src="https://img.icons8.com/stickers/100/000000/like--v1.png" height=20/>
 
-🤔 I’m currently learning Docker and Node.js (Express) =)
+🤔 I’m currently learning Typescript, Sequelize and POO =)
    
 🌱 I love nature, life and the ecosystem. All projects that respect them are of my interest!
 
@@ -19,7 +19,7 @@
 <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" align="center" alt="MySQL"/>&nbsp;<span>MySQL</span> &nbsp; &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" align="center" alt="Jest" height=30/>&nbsp;<span>Jest</span> &nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/testing-library/dom-testing-library/main/other/octopus.png" align="center" alt="RTL" height=30/>&nbsp;<span>RTL</span>
-##### And also HTML, CSS, Cypress, Express, Insomnia, Git & GitHub, Unix & Bash. &nbsp;&nbsp; <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{cjheyde}1212%2Fhit-counter" alt="profile hits counter"/> 
+##### And also Typescript, Heroku, Sequelize, HTML, CSS, Cypress, Express, Insomnia, Git & GitHub, Unix & Bash. &nbsp;&nbsp; <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{cjheyde}1212%2Fhit-counter" alt="profile hits counter"/> 
 </a>
 
 <img src="https://github-readme-stats.vercel.app/api?username=cjheyde&theme=buefy&show_icons=true&amp;hide=contribs,issues" width=53% /> &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cjheyde&theme=buefy&layout=compact" width=40% /> 
