@@ -1,24 +1,28 @@
 ### Hello! Carla Heyde here <img src="https://img.icons8.com/stickers/100/000000/like--v1.png" height=20/>
 
-🤔 I’m currently learning Typescript, Sequelize and POO =)
-   
-🌱 I love nature, life and the ecosystem. All projects that respect them are of my interest!
+🤔 I’m currently learning Typescript, Sequelize and POO =)</br>
+🌱 I love nature, life and the ecosystem. All projects that respect them are of my interest!</br>
+👯 I’m looking to collaborate on Social Projects that improve communities life quality.</br>
+💬 Ask me about anything! I love to talk and I am a good listener!</br>
 
-👯 I’m looking to collaborate on Social Projects that improve communities life quality. 
+📫 How to reach me: https://linktr.ee/carlaheyde &nbsp; &nbsp;</br>
 
-💬 Ask me about anything! I love to talk and I am a good listener! 
+### Main Technologies I have the basic knowledge:
+<table width="80%">
+   <tbody>
+      <tr valign="top">
+         <td width="5%" align="center"><img src="https://img.icons8.com/fluency/48/000000/docker.png" alt="Docker" align="center" height=30/>&nbsp;<span>Docker</span></td> 
+         <td width="5%" align="center"><img src="https://img.icons8.com/fluency/48/000000/node-js.png" alt="Node.js" align="center" height=30/>&nbsp;<span>Node.js</span></td> 
+         <td width="5%" align="center"><img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" align="center" height=30/>&nbsp;<span>React</span></td> 
+         <td width="5%" align="center"><img src="https://img.icons8.com/color/48/000000/redux.png" alt="Redux" align="center" height=30/>&nbsp;<span>Redux</span></td> 
+         <td width="5%" align="center"><img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" align="center" height=30/><span>JavaScript</span></td> 
+         <td width="5%" align="center"><img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" align="center" alt="MySQL" height=30/>&nbsp;<span>MySQL</span></td> 
+         <td width="5%" align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" align="center" alt="Jest" height=30/>&nbsp;<span>Jest</span></td> 
+         <td width="5%" align="center"><img src="https://raw.githubusercontent.com/testing-library/dom-testing-library/main/other/octopus.png" align="center" alt="RTL" height=30/>&nbsp;<span>RTL</span></td>
+      </tr>
+   </tbody>
+</table>
 
-📫 How to reach me: https://linktr.ee/carlaheyde &nbsp; &nbsp; 
-
-### Technologies I have the basic knowledge:
-<img src="https://img.icons8.com/fluency/48/000000/docker.png" alt="Docker" align="center" height=30/>&nbsp;<span>Docker</span> &nbsp; &nbsp; 
-<img src="https://img.icons8.com/fluency/48/000000/node-js.png" alt="Node.js" align="center" height=30/>&nbsp;<span>Node.js</span> &nbsp; &nbsp; 
-<img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" align="center" height=30/>&nbsp;<span>React</span> &nbsp; &nbsp;
-<img src="https://img.icons8.com/color/48/000000/redux.png" alt="Redux" align="center" height=30/>&nbsp;<span>Redux</span> &nbsp; &nbsp;
-<img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" align="center" height=30/><span>JavaScript</span> &nbsp; &nbsp;
-<img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" align="center" alt="MySQL"/>&nbsp;<span>MySQL</span> &nbsp; &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" align="center" alt="Jest" height=30/>&nbsp;<span>Jest</span> &nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/testing-library/dom-testing-library/main/other/octopus.png" align="center" alt="RTL" height=30/>&nbsp;<span>RTL</span>
 ##### And also Typescript, Heroku, Sequelize, HTML, CSS, Cypress, Express, Insomnia, Git & GitHub, Unix & Bash. &nbsp;&nbsp; <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{cjheyde}1212%2Fhit-counter" alt="profile hits counter"/> 
 </a>
 
