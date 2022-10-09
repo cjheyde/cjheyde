@@ -1,6 +1,6 @@
 ### Hello! Carla Heyde here <img src="https://img.icons8.com/stickers/100/000000/like--v1.png" height=20/>
 
-🤔 I’m currently learning Typescript, POO, MongoDB, Python and Unity =)</br>
+🤔 I’m currently learning MongoDB, Python and Unity =)</br>
 🌱 I love nature, life and the ecosystem. All projects that respect them are of my interest!</br>
 👯 I’m looking to collaborate on Social Projects that improve communities life quality.</br>
 💬 Ask me about anything! I love to talk and I am a good listener!</br>
@@ -12,71 +12,99 @@
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript" target="_blank">
 	<img src="https://github.com/get-icon/geticon/blob/master/icons/javascript.svg" alt="JavaScript" width="25px" height="25px">
    </a>
-   <a href="https://www.typescriptlang.org/" title="TypeScript" rel="nofollow">
+   <a href="https://www.typescriptlang.org/" title="TypeScript" target="_blank">
 	<img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="25px" height="25px" style= "max-width: 100%;">
    </a>
-   <a href="https://www." title="Shell" rel="nofollow">
+   <a href="https://www." title="Shell" target="_blank">
    	<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Shell" width="25px" height="25px" style= "max-width: 100%;">
    </a>  
-   <a href="https://www." title="Python" rel="nofollow">
+   <a href="https://www." title="Python" target="_blank">
 	   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="25px" height="25px" style= "max-width: 100%;">
    </a> 
-   <a href="https://www." title="React" rel="nofollow">
+   <a href="https://www." title="React" target="_blank">
 	   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="25px" height="25px" style= "max-width: 100%;">
    </a>   
-   <a href="https://www." title="Redux" rel="nofollow">
+   <a href="https://www." title="Redux" target="_blank">
 	   <img src="https://github.com/get-icon/geticon/blob/master/icons/redux.svg" alt="Redux" width="25px" height="25px" style= "max-width: 100%;">
    </a>   
-   <a href="https://www." title="HTML5" rel="nofollow">
+   <a href="https://www." title="HTML5" target="_blank">
 	   <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML5" width="25px" height="25px"style= "max-width: 100%;">
    </a>   
-   <a href="https://www." title="CSS" rel="nofollow">
+   <a href="https://www." title="CSS" target="_blank">
 	   <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS" width="25px" height="25px" style= "max-width: 100%;">
    </a>   
-   <a href="https://www." title="Node,js" rel="nofollow">
+   <a href="https://www." title="Node,js" target="_blank">
 	   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="25px" height="25px" style= "max-width: 100%;">
    </a>   
-   <a href="https://www." title="Express" rel="nofollow">
+   <a href="https://www." title="Express" target="_blank">
 	   <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Express" width="25px" height="25px" style= "max-width: 100%;">
    </a> 
-   <a href="https://www." title="Heroku" rel="nofollow">
+   <a href="https://www." title="Heroku" target="_blank">
 	<img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" width="25px" height="25px" style= "max-width: 100%;">
    </a>   
-   <a href="https://www." title="MySQL" rel="nofollow">
+   <a href="https://www." title="MySQL" target="_blank">
 	<img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="25px" height="25px" style= "max-width: 100%;">
    </a>   
-   <a href="https://www." title="Sequelize" rel="nofollow">
+   <a href="https://www." title="Sequelize" target="_blank">
 	<img src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-icon.svg" alt="Sequelize" width="25px" height="25px" style= "max-width: 100%;">
    </a>   
-   <a href="https://www." title="MongoDB" rel="nofollow">
+   <a href="https://www." title="MongoDB" target="_blank">
 	<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="25px" height="25px" style= "max-width: 100%;">
    </a>  
-   <a href="https://www." title="Docker" rel="nofollow">
+   <a href="https://www." title="Docker" target="_blank">
 	<img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="25px" height="25px"" style= "max-width: 100%;">
    </a> 
-																	         <a href="https://www.cypress.io" title="Cypress" rel="nofollow">
+																	         <a href="https://www.cypress.io" title="Cypress" target="_blank">
 	 <img src="https://github.com/get-icon/geticon/blob/master/icons/cypress.svg" alt="Cypress" width="21px" height="21px" style= "max-width: 100%;">
    </a>
-   <a href="https://www." title="Jest" rel="nofollow">
+   <a href="https://www." title="Jest" target="_blank">
 	<img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="Jest" width="25px" height="25px"" style= "max-width: 100%;">
    </a>
-   <a href="https://www." title="Mocha" rel="nofollow">
+   <a href="https://www." title="Mocha" target="_blank">
 	<img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="Mocha" width="25px" height="25px"" style= "max-width: 100%;">
    </a>
-   <a href="https://www." title="Chai" rel="nofollow">
+   <a href="https://www." title="Chai" target="_blank">
 	<img src="https://www.vectorlogo.zone/logos/chaijs/chaijs-icon.svg" alt="Chai" width="25px" height="25px"" style= "max-width: 100%;">
    </a>
-   <a href="https://www." title="Unity" rel="nofollow">
+   <a href="https://www." title="Unity" target="_blank">
 	<img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="25px" height="25px"" style= "max-width: 100%;">
    </a>
-   <a href="https://www." title="" rel="nofollow">
-	<img src=" " alt=" " width="25px" height="25px"" style= "max-width: 100%;">
+   <a href="https://www." title="Linux" target="_blank">
+	<img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" width="25px" height="25px"" style="max-width: 100%;">
    </a>
-   <a href="https://www." title="" rel="nofollow">
-	<img src=" " alt=" " width="25px" height="25px"" style= "max-width: 100%;">
+   <a href="https://www." title="Git" target="_blank">
+	<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="25px" height="25px"" style="max-width: 100%;">
    </a>
+   <a href="https://www." title="GitHub" target="_blank">
+	<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="25px" height="25px"" style="max-width: 100%;">
+   </a>
+   <a href="https://www." title="Bash" target="_blank">
+	<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="25px" height="25px"" style="max-width: 100%;">
+   </a>
+   <a href="https://www." title="Figma" target="_blank">
+	<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="25px" height="25px"" style="max-width: 100%;">
+   </a>
+   <a href="https://www." title="Postman" target="_blank">
+	<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="25px" height="25px"" style="max-width: 100%;">
+   </a>
+   <a href="https://www." title="Insomnia" target="_blank">
+	<img src="https://github.com/get-icon/geticon/blob/master/icons/insomnia.svg" alt="Insomnia" width="25px" height="25px"" style="max-width: 100%;">
+   </a>
+   <a href="https://www." title="VSCode" target="_blank">
+	<img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/visual-studio-code.svg " alt="VSCode" width="25px" height="25px"" style= "max-width: 100%;">
+   </a>   
+   <a href="https://www." title="Trello" target="_blank">
+	<img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="Trello" width="25px" height="25px"" style= "max-width: 100%;">
+   </a>
+   <a href="https://www." title="Slack" target="_blank">
+	<img src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="Slack" width="25px" height="25px"" style= "max-width: 100%;">
+   </a>																	   <!--    <a href="https://www." title="Zoom" target="_blank">
+	<img src="https://www.vectorlogo.zone/logos/zoomus/zoomus-icon.svg" alt="Zoom" width="25px" height="25px"" style= "max-width: 100%;">
+   </a> -->
+<!--    <a href="https://www." title="" target="_blank">
+	<img src=" " alt=" " width="25px" height="25px"" style= "max-width: 100%;">
+   </a> -->
 </p>
-
 
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{cjheyde}1212%2Fhit-counter" alt="profile hits counter"/> 
 </a>
@@ -153,6 +181,8 @@ and from
    </tbody>
 </table> -->
 
+																      
+<!-- 
 #### Testing:
 <table width="80%">
    <tbody>
@@ -163,9 +193,10 @@ and from
          <td width="5%" align="center"><img src="https://www.vectorlogo.zone/logos/chaijs/chaijs-icon.svg" alt="Chai" height=25/>&nbsp;<span>Chai</span></td>
       </tr>
    </tbody>
-</table>
+</table> -->
 
-
+														     
+<!-- 
 #### Game Engines:
 Unity
 <table width="80%">
@@ -174,22 +205,23 @@ Unity
          <td width="5%" align="center"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" align="center" alt="Unity" height=25/>&nbsp;<span>Unity</span></td>
       </tr>
    </tbody>
-</table>
-
+</table> -->
+																       
+<!-- 
 #### Others:
 <table width="80%">
    <tbody>
       <tr valign="top">
-         <td width="5%" align="center"><img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" align="center" alt="Linux" height=30/>&nbsp;<span>Linux</span></td>
-         <td width="5%" align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" align="center" alt="Git" height=30/>&nbsp;<span>Git</span></td>
-          <td width="5%" align="center"><img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" align="center" alt="GitHub" height=30/>&nbsp;<span>GitHub</span></td>
-          <td width="5%" align="center"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" align="center" alt="Bash" height=30/>&nbsp;<span>Bash</span></td>
-          <td width="5%" align="center"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" align="center" alt="Figma" height=30/>&nbsp;<span>Figma</span></td>
-          <td width="5%" align="center"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" align="center" alt="Postman" height=30/>&nbsp;<span>Postman</span></td>
-          <td width="5%" align="center"><img src="https://github.com/get-icon/geticon/blob/master/icons/insomnia.svg" align="center" alt="Insomnia" height=30/>&nbsp;<span>Insomnia</span></td>
+         <td width="5%" align="center"><img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" align="center" alt="Linux" height=25/>&nbsp;<span>Linux</span></td>
+         <td width="5%" align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" align="center" alt="Git" height=25/>&nbsp;<span>Git</span></td>
+          <td width="5%" align="center"><img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" align="center" alt="GitHub" height=25/>&nbsp;<span>GitHub</span></td>
+          <td width="5%" align="center"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" align="center" alt="Bash" height=25/>&nbsp;<span>Bash</span></td>
+          <td width="5%" align="center"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" align="center" alt="Figma" height=25/>&nbsp;<span>Figma</span></td>
+          <td width="5%" align="center"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" align="center" alt="Postman" height=25/>&nbsp;<span>Postman</span></td>
+          <td width="5%" align="center"><img src="https://github.com/get-icon/geticon/blob/master/icons/insomnia.svg" align="center" alt="Insomnia" height=25/>&nbsp;<span>Insomnia</span></td>
       </tr>
    </tbody>
-</table>
+</table> -->
 
 <!--
 **cjheyde/cjheyde** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
