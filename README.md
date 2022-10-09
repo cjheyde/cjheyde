@@ -15,61 +15,61 @@
    <a href="https://www.typescriptlang.org/" title="TypeScript" target="_blank">
 	<img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="25px" height="25px" style= "max-width: 100%;">
    </a>
-   <a href="https://www." title="Shell" target="_blank">
+   <a href="https://www.shellscript.sh/" title="Shell" target="_blank">
    	<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Shell" width="25px" height="25px" style= "max-width: 100%;">
    </a>  
-   <a href="https://www." title="Python" target="_blank">
+   <a href="https://www.python.org/" title="Python" target="_blank">
 	   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="25px" height="25px" style= "max-width: 100%;">
    </a> 
-   <a href="https://www." title="React" target="_blank">
+   <a href="https://reactjs.org/" title="React" target="_blank">
 	   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="25px" height="25px" style= "max-width: 100%;">
    </a>   
-   <a href="https://www." title="Redux" target="_blank">
+   <a href="https://redux.js.org/" title="Redux" target="_blank">
 	   <img src="https://github.com/get-icon/geticon/blob/master/icons/redux.svg" alt="Redux" width="25px" height="25px" style= "max-width: 100%;">
    </a>   
-   <a href="https://www." title="HTML5" target="_blank">
+   <a href="https://www.w3schools.com/html/default.asp" title="HTML5" target="_blank">
 	   <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML5" width="25px" height="25px"style= "max-width: 100%;">
    </a>   
-   <a href="https://www." title="CSS" target="_blank">
+   <a href="https://www.w3.org/TR/CSS/" title="CSS" target="_blank">
 	   <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS" width="25px" height="25px" style= "max-width: 100%;">
    </a>   
-   <a href="https://www." title="Node,js" target="_blank">
+   <a href="https://nodejs.org/en/" title="Node,js" target="_blank">
 	   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="25px" height="25px" style= "max-width: 100%;">
    </a>   
-   <a href="https://www." title="Express" target="_blank">
+   <a href="http://expressjs.com/" title="Express" target="_blank">
 	   <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Express" width="25px" height="25px" style= "max-width: 100%;">
    </a> 
-   <a href="https://www." title="Heroku" target="_blank">
+   <a href="https://www.heroku.com/home" title="Heroku" target="_blank">
 	<img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" width="25px" height="25px" style= "max-width: 100%;">
    </a>   
-   <a href="https://www." title="MySQL" target="_blank">
+   <a href="https://dev.mysql.com/" title="MySQL" target="_blank">
 	<img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="25px" height="25px" style= "max-width: 100%;">
    </a>   
-   <a href="https://www." title="Sequelize" target="_blank">
+   <a href="https://sequelize.org/" title="Sequelize" target="_blank">
 	<img src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-icon.svg" alt="Sequelize" width="25px" height="25px" style= "max-width: 100%;">
    </a>   
-   <a href="https://www." title="MongoDB" target="_blank">
+   <a href="https://www.mongodb.com/" title="MongoDB" target="_blank">
 	<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="25px" height="25px" style= "max-width: 100%;">
    </a>  
-   <a href="https://www." title="Docker" target="_blank">
+   <a href="https://docs.docker.com/" title="Docker" target="_blank">
 	<img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="25px" height="25px"" style= "max-width: 100%;">
    </a> 
 																	         <a href="https://www.cypress.io" title="Cypress" target="_blank">
 	 <img src="https://github.com/get-icon/geticon/blob/master/icons/cypress.svg" alt="Cypress" width="21px" height="21px" style= "max-width: 100%;">
    </a>
-   <a href="https://www." title="Jest" target="_blank">
+   <a href="https://jestjs.io/" title="Jest" target="_blank">
 	<img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="Jest" width="25px" height="25px"" style= "max-width: 100%;">
    </a>
-   <a href="https://www." title="Mocha" target="_blank">
+   <a href="https://mochajs.org/" title="Mocha" target="_blank">
 	<img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="Mocha" width="25px" height="25px"" style= "max-width: 100%;">
    </a>
-   <a href="https://www." title="Chai" target="_blank">
+   <a href="https://www.chaijs.com/." title="Chai" target="_blank">
 	<img src="https://www.vectorlogo.zone/logos/chaijs/chaijs-icon.svg" alt="Chai" width="25px" height="25px"" style= "max-width: 100%;">
    </a>
-   <a href="https://www." title="Unity" target="_blank">
+   <a href="https://unity.com/" title="Unity" target="_blank">
 	<img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="25px" height="25px"" style= "max-width: 100%;">
    </a>
-   <a href="https://www." title="Linux" target="_blank">
+   <a href="https://www.linux.org/" title="Linux" target="_blank">
 	<img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" width="25px" height="25px"" style="max-width: 100%;">
    </a>
    <a href="https://www." title="Git" target="_blank">
@@ -78,27 +78,24 @@
    <a href="https://www." title="GitHub" target="_blank">
 	<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="25px" height="25px"" style="max-width: 100%;">
    </a>
-   <a href="https://www." title="Bash" target="_blank">
-	<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="25px" height="25px"" style="max-width: 100%;">
-   </a>
    <a href="https://www." title="Figma" target="_blank">
 	<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="25px" height="25px"" style="max-width: 100%;">
    </a>
    <a href="https://www." title="Postman" target="_blank">
 	<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="25px" height="25px"" style="max-width: 100%;">
    </a>
-   <a href="https://www." title="Insomnia" target="_blank">
+   <a href="https://insomnia.rest/" title="Insomnia" target="_blank">
 	<img src="https://github.com/get-icon/geticon/blob/master/icons/insomnia.svg" alt="Insomnia" width="25px" height="25px"" style="max-width: 100%;">
    </a>
-   <a href="https://www." title="VSCode" target="_blank">
+   <a href="https://code.visualstudio.com/" title="VSCode" target="_blank">
 	<img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/visual-studio-code.svg " alt="VSCode" width="25px" height="25px"" style= "max-width: 100%;">
    </a>   
-   <a href="https://www." title="Trello" target="_blank">
+   <a href="https://trello.com/" title="Trello" target="_blank">
 	<img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="Trello" width="25px" height="25px"" style= "max-width: 100%;">
    </a>
-   <a href="https://www." title="Slack" target="_blank">
+   <a href="https://slack.com/" title="Slack" target="_blank">
 	<img src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="Slack" width="25px" height="25px"" style= "max-width: 100%;">
-   </a>																	   <!--    <a href="https://www." title="Zoom" target="_blank">
+   </a>																	   <!--    <a href="https://zoom.us/" title="Zoom" target="_blank">
 	<img src="https://www.vectorlogo.zone/logos/zoomus/zoomus-icon.svg" alt="Zoom" width="25px" height="25px"" style= "max-width: 100%;">
    </a> -->
 <!--    <a href="https://www." title="" target="_blank">
