@@ -1,6 +1,6 @@
 ### Hello! Carla Heyde here <img src="https://img.icons8.com/stickers/100/000000/like--v1.png" height=20/>
 
-🤔 I’m currently learning Typescript, POO, MongoDB and Python =)</br>
+🤔 I’m currently learning Typescript, POO, MongoDB, Python and Unity =)</br>
 🌱 I love nature, life and the ecosystem. All projects that respect them are of my interest!</br>
 👯 I’m looking to collaborate on Social Projects that improve communities life quality.</br>
 💬 Ask me about anything! I love to talk and I am a good listener!</br>
@@ -22,42 +22,61 @@
 	   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="25px" height="25px" style= "max-width: 100%;">
    </a> 
    <a href="https://www." title="React" rel="nofollow">
-	   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="21px" height="21px" style= "max-width: 100%;">
+	   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="25px" height="25px" style= "max-width: 100%;">
    </a>   
    <a href="https://www." title="Redux" rel="nofollow">
-	   <img src="https://github.com/get-icon/geticon/blob/master/icons/redux.svg" alt="Redux" width="21px" height="21px" style= "max-width: 100%;">
+	   <img src="https://github.com/get-icon/geticon/blob/master/icons/redux.svg" alt="Redux" width="25px" height="25px" style= "max-width: 100%;">
    </a>   
    <a href="https://www." title="HTML5" rel="nofollow">
-	   <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML5" width="21px" height="21px" style= "max-width: 100%;">
+	   <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML5" width="25px" height="25px"style= "max-width: 100%;">
    </a>   
    <a href="https://www." title="CSS" rel="nofollow">
-	   <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS" width="21px" height="21px" style= "max-width: 100%;">
+	   <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS" width="25px" height="25px" style= "max-width: 100%;">
    </a>   
    <a href="https://www." title="Node,js" rel="nofollow">
-	   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="21px" height="21px" style= "max-width: 100%;">
+	   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="25px" height="25px" style= "max-width: 100%;">
    </a>   
    <a href="https://www." title="Express" rel="nofollow">
-	   <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Express" width="21px" height="21px" style= "max-width: 100%;">
+	   <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Express" width="25px" height="25px" style= "max-width: 100%;">
    </a> 
-      <a href="https://www." title="Heroku" rel="nofollow">
-	   <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" width="21px" height="21px" style= "max-width: 100%;">
+   <a href="https://www." title="Heroku" rel="nofollow">
+	<img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" width="25px" height="25px" style= "max-width: 100%;">
    </a>   
-      <a href="https://www." title="MySQL" rel="nofollow">
-	   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="21px" height="21px" style= "max-width: 100%;">
+   <a href="https://www." title="MySQL" rel="nofollow">
+	<img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="25px" height="25px" style= "max-width: 100%;">
    </a>   
-      <a href="https://www." title="Sequelize" rel="nofollow">
-	   <img src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-icon.svg" alt="Sequelize" width="21px" height="21px" style= "max-width: 100%;">
+   <a href="https://www." title="Sequelize" rel="nofollow">
+	<img src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-icon.svg" alt="Sequelize" width="25px" height="25px" style= "max-width: 100%;">
    </a>   
-      <a href="https://www." title="MongoDB" rel="nofollow">
-	   <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="21px" height="21px" style= "max-width: 100%;">
+   <a href="https://www." title="MongoDB" rel="nofollow">
+	<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="25px" height="25px" style= "max-width: 100%;">
    </a>  
-         <a href="https://www." title="" rel="nofollow">
-	   <img src=" " alt=" " width="21px" height="21px" style= "max-width: 100%;">
-   </a>  
-   <a href="https://www.cypress.io" title="Cypress" rel="nofollow">
-	   <img src="https://github.com/get-icon/geticon/blob/master/icons/cypress.svg" alt="Cypress" width="21px" height="21px" style= "max-width: 100%;">
+   <a href="https://www." title="Docker" rel="nofollow">
+	<img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="25px" height="25px"" style= "max-width: 100%;">
+   </a> 
+																	         <a href="https://www.cypress.io" title="Cypress" rel="nofollow">
+	 <img src="https://github.com/get-icon/geticon/blob/master/icons/cypress.svg" alt="Cypress" width="21px" height="21px" style= "max-width: 100%;">
+   </a>
+   <a href="https://www." title="Jest" rel="nofollow">
+	<img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="Jest" width="25px" height="25px"" style= "max-width: 100%;">
+   </a>
+   <a href="https://www." title="Mocha" rel="nofollow">
+	<img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="Mocha" width="25px" height="25px"" style= "max-width: 100%;">
+   </a>
+   <a href="https://www." title="Chai" rel="nofollow">
+	<img src="https://www.vectorlogo.zone/logos/chaijs/chaijs-icon.svg" alt="Chai" width="25px" height="25px"" style= "max-width: 100%;">
+   </a>
+   <a href="https://www." title="Unity" rel="nofollow">
+	<img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="25px" height="25px"" style= "max-width: 100%;">
+   </a>
+   <a href="https://www." title="" rel="nofollow">
+	<img src=" " alt=" " width="25px" height="25px"" style= "max-width: 100%;">
+   </a>
+   <a href="https://www." title="" rel="nofollow">
+	<img src=" " alt=" " width="25px" height="25px"" style= "max-width: 100%;">
    </a>
 </p>
+
 
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{cjheyde}1212%2Fhit-counter" alt="profile hits counter"/> 
 </a>
@@ -124,23 +143,24 @@ and from
    </tbody>
 </table> -->
 
+<!-- 
 #### Devops:
 <table width="80%">
    <tbody>
       <tr valign="top">
-         <td width="5%" align="center"><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" align="center" height=30/>&nbsp;<span>Docker</span></td> 
+         <td width="5%" align="center"><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" align="center" height=25/>&nbsp;<span>Docker</span></td> 
       </tr>
    </tbody>
-</table>
+</table> -->
 
 #### Testing:
 <table width="80%">
    <tbody>
       <tr valign="top">
-         <td width="5%" align="center"><img src="https://github.com/get-icon/geticon/blob/master/icons/cypress.svg" align="center" alt="Cypress" height=30/>&nbsp;<span>Cypress</span></td> 
-         <td width="5%" align="center"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" align="center" alt="Jest" height=30/>&nbsp;<span>Jest</span></td> 
-         <td width="5%" align="center"><img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" align="center" alt="Mocha" height=30/>&nbsp;<span>Mocha</span></td>
-         <td width="5%" align="center"><img src="https://www.vectorlogo.zone/logos/chaijs/chaijs-icon.svg" alt="Chai" height=30/>&nbsp;<span>Chai</span></td>
+         <td width="5%" align="center"><img src="https://github.com/get-icon/geticon/blob/master/icons/cypress.svg" align="center" alt="Cypress" height=25/>&nbsp;<span>Cypress</span></td> 
+         <td width="5%" align="center"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" align="center" alt="Jest" height=25/>&nbsp;<span>Jest</span></td> 
+         <td width="5%" align="center"><img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" align="center" alt="Mocha" height=25/>&nbsp;<span>Mocha</span></td>
+         <td width="5%" align="center"><img src="https://www.vectorlogo.zone/logos/chaijs/chaijs-icon.svg" alt="Chai" height=25/>&nbsp;<span>Chai</span></td>
       </tr>
    </tbody>
 </table>
@@ -151,7 +171,7 @@ Unity
 <table width="80%">
    <tbody>
       <tr valign="top">
-         <td width="5%" align="center"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" align="center" alt="Unity" height=30/>&nbsp;<span>Unity</span></td>
+         <td width="5%" align="center"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" align="center" alt="Unity" height=25/>&nbsp;<span>Unity</span></td>
       </tr>
    </tbody>
 </table>
