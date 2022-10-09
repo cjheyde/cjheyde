@@ -9,17 +9,17 @@
 
 
 <p>
-   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript" rel="nofollow">
-	<img src="https://github.com/get-icon/geticon/blob/master/icons/javascript.svg" alt="JavaScript" width="21px" height="21px" style= "max-width: 100%;">
+   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript" target="_blank">
+	<img src="https://github.com/get-icon/geticon/blob/master/icons/javascript.svg" alt="JavaScript" width="25px" height="25px">
    </a>
    <a href="https://www.typescriptlang.org/" title="TypeScript" rel="nofollow">
-	<img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="21px" height="21px" style= "max-width: 100%;">
+	<img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="25px" height="25px" style= "max-width: 100%;">
    </a>
    <a href="https://www." title="Shell" rel="nofollow">
-   	<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Shell" width="21px" height="21px" style= "max-width: 100%;">
+   	<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Shell" width="25px" height="25px" style= "max-width: 100%;">
    </a>  
    <a href="https://www." title="Python" rel="nofollow">
-	   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="21px" height="21px" style= "max-width: 100%;">
+	   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="25px" height="25px" style= "max-width: 100%;">
    </a> 
    <a href="https://www." title="React" rel="nofollow">
 	   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="21px" height="21px" style= "max-width: 100%;">
@@ -64,9 +64,11 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=cjheyde&theme=buefy&show_icons=true&amp;hide=contribs,issues" width=53% /> &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cjheyde&theme=buefy&layout=compact" width=40% /> 
 
-Credits: the logos used here are from:
-- <img src="https://www.vectorlogo.zone/logos/vectorlogozone/vectorlogozone-ar21.svg" align="center" alt="VectorLogo.zone" height=30/>&nbsp;<span>VectorLogo.zone</span> - https://www.vectorlogo.zone
-- geticon - https://github.com/get-icon/geticon/
+The logos used here are from <a href="https://github.com/get-icon/geticon">Get-icon</a> 
+and from 
+<a href="https://www.vectorlogo.zone" title="VectorLogo.zone">
+	<img src="https://www.vectorlogo.zone/logos/vectorlogozone/vectorlogozone-wordmark.svg" alt="VectorLogo.zone" width="150px" height="25px">
+</a>
 
 <!-- #### Programming Languages:
 <table width="80%">
