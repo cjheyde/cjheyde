@@ -1,13 +1,13 @@
 ### Hello! Carla Heyde here <img src="https://img.icons8.com/stickers/100/000000/like--v1.png" height=20/>
 
 🤔 I’m currently learning MongoDB, Python and Unity =)</br>
-🌱 I love nature, life and the ecosystem. All projects that respect them are of my interest!</br>
-👯 I’m looking to collaborate on Social Projects that improve communities life quality.</br>
-💬 Ask me about anything! I love to talk and I am a good listener!</br>
+🌱 I love nature, people, life and the ecosystem. All projects that respect them are of my interest!</br>
+👯 I want to collaborate on Social Projects that improve life quality.</br>
+💬 Ask me about anything! I love to get to know as many people as possible, because each one is terribly beautiful!</br>
 
 📫 How to reach me: https://linktr.ee/carlaheyde &nbsp; &nbsp;</br> 
 
-
+These are the languages, technologies and tools I have been learning and using for the last year:
 <p>
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript" target="_blank">
 	<img src="https://github.com/get-icon/geticon/blob/master/icons/javascript.svg" alt="JavaScript" width="25px" height="25px">
@@ -72,16 +72,16 @@
    <a href="https://www.linux.org/" title="Linux" target="_blank">
 	<img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" width="25px" height="25px"" style="max-width: 100%;">
    </a>
-   <a href="https://www." title="Git" target="_blank">
+   <a href="https://git-scm.com/" title="Git" target="_blank">
 	<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="25px" height="25px"" style="max-width: 100%;">
    </a>
-   <a href="https://www." title="GitHub" target="_blank">
+   <a href="https://github.com/" title="GitHub" target="_blank">
 	<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="25px" height="25px"" style="max-width: 100%;">
    </a>
-   <a href="https://www." title="Figma" target="_blank">
+   <a href="https://www.figma.com/" title="Figma" target="_blank">
 	<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="25px" height="25px"" style="max-width: 100%;">
    </a>
-   <a href="https://www." title="Postman" target="_blank">
+   <a href="https://www.postman.com/" title="Postman" target="_blank">
 	<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="25px" height="25px"" style="max-width: 100%;">
    </a>
    <a href="https://insomnia.rest/" title="Insomnia" target="_blank">
