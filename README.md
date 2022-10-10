@@ -67,7 +67,7 @@ These are the languages, technologies and tools I have been learning and using f
 	<img src="https://www.vectorlogo.zone/logos/chaijs/chaijs-icon.svg" alt="Chai" width="25px" height="25px"" style= "max-width: 100%;">
    </a>
    <a href="https://unity.com/" title="Unity" target="_blank">
-	<img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="25px" height="25px"" style= "max-width: 100%;" style="background-color:white">
+	<img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="25px" height="25px"" style= "max-width: 100%; background-color: yellow;">
    </a>
    <a href="https://www.linux.org/" title="Linux" target="_blank">
 	<img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" width="25px" height="25px"" style="max-width: 100%;">
