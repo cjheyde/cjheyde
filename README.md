@@ -16,7 +16,7 @@ These are the languages, technologies and tools I have been learning and using f
 	<img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="25px" height="25px" style= "max-width: 100%;">
    </a>
    <a href="https://www.shellscript.sh/" title="Shell" target="_blank">
-   	<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Shell" width="25px" height="25px" style= "max-width: 100%;">
+   	<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg" alt="Shell" width="25px" height="25px" style= "max-width: 100%;">
    </a>  
    <a href="https://www.python.org/" title="Python" target="_blank">
 	   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="25px" height="25px" style= "max-width: 100%;">
@@ -37,7 +37,7 @@ These are the languages, technologies and tools I have been learning and using f
 	   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="25px" height="25px" style= "max-width: 100%;">
    </a>   
    <a href="http://expressjs.com/" title="Express" target="_blank">
-	   <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Express" width="25px" height="25px" style= "max-width: 100%;">
+	   <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="Express" width="25px" height="25px" style= "max-width: 100%;">
    </a> 
    <a href="https://www.heroku.com/home" title="Heroku" target="_blank">
 	<img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" width="25px" height="25px" style= "max-width: 100%;">
@@ -67,7 +67,7 @@ These are the languages, technologies and tools I have been learning and using f
 	<img src="https://www.vectorlogo.zone/logos/chaijs/chaijs-icon.svg" alt="Chai" width="25px" height="25px"" style= "max-width: 100%;">
    </a>
    <a href="https://unity.com/" title="Unity" target="_blank">
-	<img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="25px" height="25px"" style= "max-width: 100%;">
+	<img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-ar21.svg" alt="Unity" width="25px" height="25px"" style= "max-width: 100%;">
    </a>
    <a href="https://www.linux.org/" title="Linux" target="_blank">
 	<img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" width="25px" height="25px"" style="max-width: 100%;">
@@ -76,7 +76,7 @@ These are the languages, technologies and tools I have been learning and using f
 	<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="25px" height="25px"" style="max-width: 100%;">
    </a>
    <a href="https://github.com/" title="GitHub" target="_blank">
-	<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="25px" height="25px"" style="max-width: 100%;">
+	<img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="GitHub" width="25px" height="25px"" style="max-width: 100%;">
    </a>
    <a href="https://www.figma.com/" title="Figma" target="_blank">
 	<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="25px" height="25px"" style="max-width: 100%;">
