@@ -110,7 +110,7 @@ These are the languages, technologies and tools I have been learning and using f
 
 The logos used here are from <a href="https://github.com/get-icon/geticon">Get-icon</a> 
 and
-<a href="https://www.vectorlogo.zone" title="VectorLogo.zone" target="_blank">
+<a href="https://www.vectorlogo.zone" title="VectorLogo.zone" rel="nofollow" target="_blank">
 	<img src="https://www.vectorlogo.zone/logos/vectorlogozone/vectorlogozone-wordmark.svg" alt="VectorLogo.zone" width="150px" height="25px">
 </a>
 
