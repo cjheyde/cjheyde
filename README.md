@@ -108,9 +108,9 @@ These are the languages, technologies and tools I have been learning and using f
 
 <img src="https://github-readme-stats.vercel.app/api?username=cjheyde&theme=buefy&show_icons=true&amp;hide=contribs,issues" width=53% /> &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cjheyde&theme=buefy&layout=compact" width=40% /> 
 
-The logos used here are from <a href="https://github.com/get-icon/geticon">Get-icon</a> 
+The logos used here are from <a href="https://github.com/get-icon/geticon" target="_blank" rel="nofollow">Get-icon</a> 
 and
-<a href="https://www.vectorlogo.zone" title="VectorLogo.zone" rel="nofollow" target="_blank">
+<a href="https://www.vectorlogo.zone" title="VectorLogo.zone" target="_blank" rel="nofollow">
 	<img src="https://www.vectorlogo.zone/logos/vectorlogozone/vectorlogozone-wordmark.svg" alt="VectorLogo.zone" width="150px" height="25px">
 </a>
 
