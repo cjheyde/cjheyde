@@ -1,6 +1,6 @@
 ### Hello! Carla Heyde here <img src="https://img.icons8.com/stickers/100/000000/like--v1.png" height=20/>
 
-🤔 I’m currently learning MongoDB, Python and Unity =)</br>
+🤔 I’m currently learning MongoDB, POO and Python =)</br>
 🌱 I love nature, people, life and the ecosystem. All projects that respect them are of my interest!</br>
 👯 I want to collaborate on Social Projects that improve life quality.</br>
 💬 Ask me about anything! I love to get to know as many people as possible, because each one is terribly beautiful!</br>
