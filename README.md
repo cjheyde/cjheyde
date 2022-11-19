@@ -21,6 +21,9 @@ These are the languages, technologies and tools I have been learning and using f
    <a href="https://www.python.org/" title="Python" target="_blank">
 	   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="25px" height="25px" style= "max-width: 100%;">
    </a> 
+   <a href="https://www.ruby-lang.org/en/" title="Ruby" target="_blank">
+	   <img src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-icon.svg" alt="Ruby" width="25px" height="25px" style= "max-width: 100%;">
+   </a> 
    <a href="https://reactjs.org/" title="React" target="_blank">
 	   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="25px" height="25px" style= "max-width: 100%;">
    </a>   
