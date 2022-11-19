@@ -100,7 +100,7 @@ These are the languages, technologies and tools I have been learning and using f
    </a> -->
 </p>
 
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{cjheyde}1212%2Fhit-counter" alt="profile hits counter"/> 
+<!-- <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{cjheyde}1212%2Fhit-counter" alt="profile hits counter"/>  -->
 </a>
 
 <img src="https://github-readme-stats.vercel.app/api?username=cjheyde&theme=buefy&show_icons=true&amp;hide=contribs,issues" width=53% /> &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cjheyde&theme=buefy&layout=compact" width=40% /> 
