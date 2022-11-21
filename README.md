@@ -1,4 +1,4 @@
-### Hello! Carla Heyde here <img src="https://img.icons8.com/stickers/100/000000/like--v1.png" height=20/>
+### Hello! Carla Junger Heyde here <img src="https://img.icons8.com/stickers/100/000000/like--v1.png" height=20/>
 
 🤔 I’m currently learning OOP, Ruby and Python =)</br>
 🌱 I love nature, people, life, and the ecosystem. As well as technology!!! All projects that respect them are of my interest!</br>
