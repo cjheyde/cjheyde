@@ -114,5 +114,8 @@ and
 	<img src="https://www.vectorlogo.zone/logos/vectorlogozone/vectorlogozone-wordmark.svg" alt="VectorLogo.zone" width="150px" height="25px">
 </a>
 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="carlaheyde" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://de.linkedin.com/in/carlaheyde/en?trk=profile-badge">Carla Junger Heyde</a></div>
+              
+
 <!--
 **cjheyde/cjheyde** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
