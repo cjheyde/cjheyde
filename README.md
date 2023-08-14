@@ -5,7 +5,7 @@
 👯 I want to collaborate on Social Projects that improve life quality.</br>
 💬 Ask me about anything! I love to get to know as many people as possible, because each one is terribly beautiful!</br>
 
-📫 How to reach me: https://www.linkedin.com/in/carlaheyde/?locale=en_US &nbsp; &nbsp; carlaheyde@gmail.com &nbsp; &nbsp; https://linktr.ee/carlaheyde &nbsp; &nbsp;</br> 
+📫 How to reach me: carlaheyde@gmail.com &nbsp; &nbsp; https://linktr.ee/carlaheyde &nbsp; &nbsp; https://www.linkedin.com/in/carlaheyde/?locale=en_US &nbsp; &nbsp; </br> 
 
 These are the languages, technologies and tools I have been learning and using for the last year:
 <p>
