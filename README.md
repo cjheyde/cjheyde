@@ -1,11 +1,11 @@
 ### Hello! Carla Junger Heyde here <img src="https://img.icons8.com/stickers/100/000000/like--v1.png" height=20/>
 
-🤔 I’m currently learning Java =)</br>
+🤔 I’m currently enrolled at the IBM Full Stack Software Developer Professional Certificate =)</br>
 🌱 I love nature, people, life, the ecosystem, and technology!!! All projects that respect them are of my interest!</br>
 👯 I want to collaborate on Social Projects that improve life quality.</br>
-💬 Ask me about anything! I love to get to know as many people as possible, because each one is terribly beautiful!</br>
+💬 Ask me about anything! I love to get to know as many people as possible!</br>
 
-📫 How to reach me: carlaheyde@gmail.com &nbsp; &nbsp; https://linktr.ee/carlaheyde &nbsp; &nbsp; https://www.linkedin.com/in/carlaheyde/?locale=en_US &nbsp; &nbsp; </br> 
+📫 How to reach me: carlaheyde@gmail.com &nbsp; &nbsp; https://linktr.ee/carlaheyde &nbsp; &nbsp; https://www.linkedin.com/in/carlaheyde/ &nbsp; &nbsp; </br> 
 
 These are the languages, technologies and tools I have been learning and using for the last year:
 <p>
@@ -107,12 +107,6 @@ These are the languages, technologies and tools I have been learning and using f
 </a>
 
 <img src="https://github-readme-stats.vercel.app/api?username=cjheyde&theme=buefy&show_icons=true&amp;hide=contribs,issues" width=53% /> &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cjheyde&theme=buefy&layout=compact" width=40% /> 
-
-Icons used are from <a href="https://github.com/get-icon/geticon" target="_blank">Get-icon</a> 
-and
-<a href="https://www.vectorlogo.zone" title="VectorLogo.zone" target="_blank">
-	<img src="https://www.vectorlogo.zone/logos/vectorlogozone/vectorlogozone-wordmark.svg" alt="VectorLogo.zone" width="150px" height="25px">
-</a>
 
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="carlaheyde" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://de.linkedin.com/in/carlaheyde/en?trk=profile-badge">Carla Junger Heyde</a></div>
               
