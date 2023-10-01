@@ -16,7 +16,7 @@ These are the languages, technologies and tools I have been learning and using f
 	<img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="25px" height="25px" style= "max-width: 100%;">
    </a>
    <a href="https://www.shellscript.sh/" title="Shell" target="_blank">
-   	<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg" alt="Shell" height="25px" style= "max-width: 100%;" style= "color:white;">
+   	<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg" alt="Shell" height="25px" style= "color:white;" style= "max-width: 100%;">
    </a>  
    <a href="https://www.python.org/" title="Python" target="_blank">
 	   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="25px" height="25px" style= "max-width: 100%;">
