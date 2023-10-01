@@ -36,9 +36,6 @@ These are the languages, technologies and tools I have been learning and using f
    <a href="https://nodejs.org/en/" title="Node,js" target="_blank">
 	   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="25px" height="25px" style= "max-width: 100%;">
    </a>   
-   <a href="http://expressjs.com/" title="Express" target="_blank">
-	   <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Express" width="25px" height="25px" style= "max-width: 100%;" color="white">
-   </a> 
    <a href="https://www.heroku.com/home" title="Heroku" target="_blank">
 	<img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" width="25px" height="25px" style= "max-width: 100%;">
    </a>   
@@ -92,7 +89,11 @@ These are the languages, technologies and tools I have been learning and using f
    </a>
    <a href="https://slack.com/" title="Slack" target="_blank">
 	<img src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="Slack" width="25px" height="25px" style= "max-width: 100%;">
-   </a>																	  
+   </a>	
+   <a href="http://expressjs.com/" title="Express" target="_blank">
+	   <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Express" width="25px" height="25px" style= "max-width: 100%;" color="white">
+   </a> 
+ 
 </p>
 
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{cjheyde}1212%2Fhit-counter" alt="profile hits counter"/>
