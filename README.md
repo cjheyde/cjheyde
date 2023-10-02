@@ -2,7 +2,7 @@
 
 🤔 I’m currently enrolled at the IBM Full Stack Software Developer Professional Certificate =)</br>
 🌱 I love nature, people, life, the ecosystem, and technology!!! All projects that respect them are of my interest!</br>
-👯 I want to collaborate on Social Projects that improve life quality, and on researches that can help us bild a better world!</br>
+👯 I want to collaborate on social projects that improve life quality, and on researches that can help bilding a better world!</br>
 💬 Ask me about anything! I love to get to know as many people as possible!</br>
 
 📫 How to reach me: carlaheyde@gmail.com &nbsp; &nbsp; https://linktr.ee/carlaheyde &nbsp; &nbsp; https://www.linkedin.com/in/carlaheyde/ &nbsp; &nbsp; </br> 
