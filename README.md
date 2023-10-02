@@ -7,7 +7,7 @@
 
 📫 How to reach me: carlaheyde@gmail.com &nbsp; &nbsp; https://linktr.ee/carlaheyde &nbsp; &nbsp; https://www.linkedin.com/in/carlaheyde/ &nbsp; &nbsp; </br> 
 
-These are the languages, technologies and tools I have been learning and using for the last year:
+These are the languages, technologies and tools I have been learning and using:
 <p>
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript" target="_blank">
 	<img src="https://github.com/get-icon/geticon/blob/master/icons/javascript.svg" alt="JavaScript" width="25px" height="25px">
