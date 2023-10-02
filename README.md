@@ -82,7 +82,7 @@ These are the languages, technologies and tools I have been learning and using:
 	<img src="https://github.com/get-icon/geticon/blob/master/icons/insomnia.svg" alt="Insomnia" width="25px" height="25px" style="max-width: 100%;">
    </a>
    <a href="https://code.visualstudio.com/" title="VSCode" target="_blank">
-	<img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/visual-studio-code.svg " alt="VSCode" width="25px" height="25px"" style= "max-width: 100%;">
+	<img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/visual-studio-code.svg " alt="VSCode" width="25px" height="25px" style= "max-width: 100%;">
    </a>   
    <a href="https://trello.com/" title="Trello" target="_blank">
 	<img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="Trello" width="25px" height="25px" style= "max-width: 100%;">
@@ -101,7 +101,7 @@ These are the languages, technologies and tools I have been learning and using:
 
 <img src="https://github-readme-stats.vercel.app/api?username=cjheyde&theme=buefy&show_icons=true&amp;hide=contribs,issues" width=53% /> &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cjheyde&theme=buefy&layout=compact" width=40% /> 
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="carlaheyde" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://de.linkedin.com/in/carlaheyde/en?trk=profile-badge">Carla Junger Heyde</a></div>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="carlaheyde" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://de.linkedin.com/in/carlaheyde/en?trk=profile-badge"></a></div>
               
 
 <!--
