@@ -1,6 +1,6 @@
 ### Hello! Carla Junger Heyde here <img src="https://img.icons8.com/stickers/100/000000/like--v1.png" height=20/>
 
-🤔 I’m currently enrolled at the IBM Full Stack Software Developer Professional Certificate =)</br>
+🤔 I’m currently enrolled at the ReDi School Web Dev teaching Team =)</br>
 🌱 I love nature, people, life, the ecosystem, and technology!!! All projects that respect them are of my interest!</br>
 👯 I want to collaborate on social projects that improve life quality, and on researches that can help bilding a better world!</br>
 💬 Ask me about anything! I love to get to know as many people as possible!</br>
