@@ -1,6 +1,6 @@
 ### Hello! Carla Junger Heyde here
 
-🤔 I’m currently enrolled at the ReDi School Web Dev teaching Team =)</br>
+🤔 I’m currently enrolled at the 42 School Heilbronn to learn C Language =)</br>
 🌱 I love nature, people, life, the ecosystem, and technology!!! All projects that respect them are of my interest!</br>
 👯 I want to collaborate on social projects that improve life quality, and on researches that can help bilding a better world!</br>
 💬 Ask me about anything! I love to get to know as many people as possible!</br>
