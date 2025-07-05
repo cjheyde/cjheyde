@@ -2,13 +2,16 @@
 
 🤔 I’m currently enrolled at the 42 School Heilbronn to learn C Language =)</br>
 🌱 I love nature, people, life, the ecosystem, and technology!!! All projects that respect them are of my interest!</br>
-👯 I want to collaborate on social projects that improve life quality, and on researches that can help bilding a better world!</br>
-💬 Ask me about anything! I love to get to know as many people as possible!</br>
+👯 I want to collaborate on social projects that improve life quality, and on researches that can help building a better world!</br>
+💬 Ask me about anything! I love to get new people!</br>
 
 📫 How to reach me: carlaheyde@gmail.com &nbsp; &nbsp; https://linktr.ee/carlaheyde &nbsp; &nbsp; https://www.linkedin.com/in/carlaheyde/ &nbsp; &nbsp; </br> 
 
 These are the languages, technologies and tools I have been learning and using:
 <p>
+   <a href="https://www.c-language.org/" title="C Language" target="_blank">
+	<img src="https://github.com/get-icon/geticon/blob/master/icons/c.svg" alt="C Language" width="25px" height="25px">
+   </a>
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript" target="_blank">
 	<img src="https://github.com/get-icon/geticon/blob/master/icons/javascript.svg" alt="JavaScript" width="25px" height="25px">
    </a>
