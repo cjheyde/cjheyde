@@ -3,7 +3,7 @@
 🤔 I’m currently enrolled at the 42 School Heilbronn to learn C Language =)</br>
 🌱 I love nature, people, life, the ecosystem, and technology!!! All projects that respect them are of my interest!</br>
 👯 I want to collaborate on social projects that improve life quality, and on researches that can help building a better world!</br>
-💬 Ask me about anything! I love to get new people!</br>
+💬 Ask me about anything! I love to know new people!</br>
 
 📫 How to reach me: carlaheyde@gmail.com &nbsp; &nbsp; https://linktr.ee/carlaheyde &nbsp; &nbsp; https://www.linkedin.com/in/carlaheyde/ &nbsp; &nbsp; </br> 
 
